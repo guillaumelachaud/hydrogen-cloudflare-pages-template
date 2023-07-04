@@ -1,0 +1,2 @@
+workers_dev = true
+main = "./dist/worker/index.js"
